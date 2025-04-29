@@ -504,7 +504,7 @@
     <footer>
       <div><img src="https://i.postimg.cc/28KZMNyW/20250424-223807.png" alt="X-TOVA Logo" style="height: 50px;"></div>
       <h1>X-TOVA</h1>
-      <p></>X-TOVA explores the unknown in air and space, innovates for the benefit of humanity, and inspires the world through discovery.</p>
+      <p>X-TOVA explores the unknown in air and space, innovates for the benefit of humanity, and inspires the world through discovery.</p>
     <br><br><p> <br>All Pages</p>
       
       <div class="footer-links">
