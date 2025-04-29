@@ -84,7 +84,7 @@
     .hamburger.open span:nth-child(3) { transform: rotate(-45deg) translateY(-9px); }
 
     /* মূল কন্টেন্ট */
-    .content { padding-top: 60px; }
+    .content { padding-top: 0px; }
 
     /* প্রতিটি পেজ */
     .page { display: none; }
