@@ -23,7 +23,7 @@
       left: 0;
       width: 100%;
       z-index: 1100;
-      background: #000;
+      background: black ;
     }
 
     /* হ্যামবার্গার মেনু */
