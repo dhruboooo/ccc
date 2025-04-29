@@ -509,7 +509,7 @@
       
       <div class="footer-links">
         <div>
-          <h2><u><a href="#" onclick="showPage('home')">Home</a></u></h2>
+          <h2><a href="#" onclick="showPage('home')">Home</a></h2>
           <h2><a href="#" onclick="showPage('news')">News & Events</a></h2>
           <h2><a href="#" onclick="showPage('missions')">Missions</a></h2>
         </div>
@@ -531,7 +531,7 @@
   <a href="https://youtube.com/@XTOVAofficial" target="_blank"><img src="https://i.ibb.co/mCrxw2YM/b21e91fe0afb.png" alt="YouTube"></a>
 </div>
 <br><br><br>
-<a href="#"">© X-TOVA</a>
+<a href="#">© X-TOVA</a>
 </footer>
 </div>
 
